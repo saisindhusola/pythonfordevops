@@ -1,0 +1,9 @@
+1. Read Input from the user(folder) 
+    There are different ways to read input from user:
+    *Command Line Arguments
+    *Enviroment variables
+    *Input(at Runtime)
+2. for loop, folder (list files)
+3. Identify module
+4. Print file
+5. Handle any known errors(Exceptional Handling)
